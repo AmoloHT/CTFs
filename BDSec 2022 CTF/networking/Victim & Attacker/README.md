@@ -11,4 +11,4 @@
 #Getting the flag 
 
 First i open the file using  wireshark and I came across a lot of GET requests requesting random files on the server
-<p align="center"><img src="https://www.sothis.tech/wp-content/uploads/2021/03/haking-jugando-sothis-1.jpg"></p>
+<p align="center"><img src="https://github.com/AmoloHT/CTFs/blob/main/s022-07-11_01-48.png"></p>
